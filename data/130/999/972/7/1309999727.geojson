@@ -27,8 +27,11 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Frano"
+    ],
     "name:eng_x_variant":[
         "Pharnu",
         "Fraono"
@@ -47,7 +50,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1167755
+        "gn:id":1167755,
+        "wd:id":"Q136388653"
     },
     "wof:country":"PK",
     "wof:geomhash":"9475eb89724a9b136ab228286fd70f94",
