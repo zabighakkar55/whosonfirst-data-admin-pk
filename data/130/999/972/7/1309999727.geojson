@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"76.72343000000002,34.93868,76.72343000000002,34.93868",
+    "geom:bbox":"76.72343,34.93868,76.72343,34.93868",
     "geom:latitude":34.93868,
     "geom:longitude":76.72343,
     "gn:admin1_code":"07",
@@ -54,7 +54,7 @@
         "wd:id":"Q136388653"
     },
     "wof:country":"PK",
-    "wof:geomhash":"9475eb89724a9b136ab228286fd70f94",
+    "wof:geomhash":"48ad7d4e96e60125cdb7887bd7fbced0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,7 +80,7 @@
     "wof:lang_x_spoken":[
         "bft"
     ],
-    "wof:lastmodified":1759017640,
+    "wof:lastmodified":1759691442,
     "wof:name":"Frano",
     "wof:parent_id":1108692185,
     "wof:placetype":"locality",
@@ -90,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.72343000000002,
+    76.72343,
     34.93868,
-    76.72343000000002,
+    76.72343,
     34.93868
 ],
-  "geometry": {"coordinates":[76.72343000000002,34.93868],"type":"Point"}
+  "geometry": {"coordinates":[76.72342999999999,34.93868],"type":"Point"}
 }
