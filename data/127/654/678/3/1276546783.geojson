@@ -37,10 +37,18 @@
         "Rabw\u0101h"
     ],
     "name:deu_x_preferred":[
+        "Rabwah"
+    ],
+    "name:deu_x_variant":[
         "Chenab Nagar"
     ],
     "name:eng_x_preferred":[
-        "Chenab Nagar"
+        "Rabwah"
+    ],
+    "name:eng_x_variant":[
+        "Chenab Nagar",
+        "Chanab Nagar",
+        "Chinab Nagar"
     ],
     "name:fas_x_preferred":[
         "\u0631\u0628\u0648\u0647"
@@ -55,12 +63,18 @@
         "Rabwah"
     ],
     "name:nld_x_preferred":[
+        "Rabwah"
+    ],
+    "name:nld_x_variant":[
         "Chenab Nagar"
     ],
     "name:pnb_x_preferred":[
         "\u0631\u0628\u0648\u06c1"
     ],
     "name:pol_x_preferred":[
+        "Rabwah"
+    ],
+    "name:pol_x_variant":[
         "\u0106enab Nagar"
     ],
     "name:por_x_preferred":[
@@ -89,12 +103,13 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753,
-        1108692155
+        1108692155,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1167507,
+        "wd:id":"Q1069835",
         "wk:page":"Rabwah"
     },
     "wof:country":"PK",
@@ -109,8 +124,8 @@
         }
     ],
     "wof:id":1276546783,
-    "wof:lastmodified":1660238942,
-    "wof:name":"Chenab Nagar",
+    "wof:lastmodified":1759691388,
+    "wof:name":"Rabwah",
     "wof:parent_id":1108692155,
     "wof:placetype":"locality",
     "wof:population":70000,
