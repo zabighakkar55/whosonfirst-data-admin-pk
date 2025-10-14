@@ -27,23 +27,34 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Frano"
+    ],
+    "name:eng_x_variant":[
+        "Pharnu",
+        "Fraono"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u0631\u0627\u0646\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85675745,
-        1159339495,
         102191569,
         85632659,
         1108692185,
+        1159339495,
+        85675745,
         85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1167755
+        "gn:id":1167755,
+        "wd:id":"Q136388653"
     },
     "wof:country":"PK",
-    "wof:geomhash":"9475eb89724a9b136ab228286fd70f94",
+    "wof:geomhash":"48ad7d4e96e60125cdb7887bd7fbced0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,8 +74,14 @@
         }
     ],
     "wof:id":1309999727,
-    "wof:lastmodified":1566591494,
-    "wof:name":"Prahnu",
+    "wof:lang_x_official":[
+        "urd"
+    ],
+    "wof:lang_x_spoken":[
+        "bft"
+    ],
+    "wof:lastmodified":1759691442,
+    "wof:name":"Frano",
     "wof:parent_id":1108692185,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
@@ -73,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    76.72343000000002,
+    76.72343,
     34.93868,
-    76.72343000000002,
+    76.72343,
     34.93868
 ],
-  "geometry": {"coordinates":[76.72343000000002,34.93868],"type":"Point"}
+  "geometry": {"coordinates":[76.72342999999999,34.93868],"type":"Point"}
 }
