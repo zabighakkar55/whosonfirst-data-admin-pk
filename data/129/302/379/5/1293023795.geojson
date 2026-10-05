@@ -10,16 +10,16 @@
     "geom:latitude":28.33247,
     "geom:longitude":70.41321,
     "gn:admin1_code":"4.0",
-    "gn:asciiname":"Chak Fifty-seven",
+    "gn:asciiname":"Chak 55p Rahimyar khan",
     "gn:country_code":"PK",
     "gn:dem":80,
     "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":7634895,
+    "gn:feature_code":"PPLL",
+    "gn:geonameid": zabi55,
     "gn:latitude":28.33247,
     "gn:longitude":70.41321,
     "gn:modification_date":"2012-01-21",
-    "gn:name":"Chak Fifty-seven",
+    "gn:name":"Chak 55p Rahimyar khan",
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
@@ -30,7 +30,7 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Chak 57"
+        "Chak 55p"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
